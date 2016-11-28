@@ -1,7 +1,7 @@
 Naslov
 
-ovo je prica o Romanu,koji je bio cigan
-šetao je šumom i oteli su ga patuljci
-i onda je ubio shreka
+Ovo je prica o Romanu,koji je bio cigan
+Šetao je šumom i oteli su ga patuljci
+I onda je ubio shreka
 
-d end.
+D end.
